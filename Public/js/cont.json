@@ -1,0 +1,13 @@
+{
+    "numb":[
+        { "unresolved": "60", "overdue": "16", "open": "43", "onhold": "64"}
+    ],
+
+    "tickets":[
+        { "statusname": "Waiting on Feature Request", "viewdetails": "4238"},
+        { "statusname": "Awaiting Customer Response", "viewdetails": "1005"},
+        { "statusname": "Awaiting Developer Fix", "viewdetails": "914"},
+        { "statusname": "Pending", "viewdetails": "281"}
+
+    ]
+}
